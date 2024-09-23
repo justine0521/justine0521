@@ -16,11 +16,11 @@ I am 4th year college in Polytechnic University of the Philippines (Bataan Branc
     <img src="https://img.shields.io/badge/Justine%20Santos-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 
-  <a href="(https://www.instagram.com/jstnn_eu/?hl=en)">
+  <a href="https://www.instagram.com/jstnn_eu/?hl=en">
     <img src="https://img.shields.io/badge/Justine%20Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="(https://www.linkedin.com/in/santos-justine-r-0303a7243/)">
+  <a href="https://www.linkedin.com/in/santos-justine-r-0303a7243/">
     <img src="https://img.shields.io/badge/Justine%20Santos-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
